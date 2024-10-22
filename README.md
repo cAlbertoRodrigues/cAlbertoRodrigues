@@ -4,7 +4,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 
 <div align="center">
