@@ -6,3 +6,21 @@
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+
+<div align="center">
+  <h3>Contatos</h3>
+  <a href="mailto:alb.carlos.rodrigues2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5521997495784" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alb-carlos-rodrigues2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/c_asrodrigues/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+
